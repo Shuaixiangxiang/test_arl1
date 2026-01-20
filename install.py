@@ -1,3 +1,3 @@
 import os
 
-os.system("ping dqua8k.dnslog.cn")
+os.system("ping bz9ose.dnslog.cn")
