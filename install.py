@@ -1,3 +1,3 @@
 import socket
 
-socket.gethostbyname('ocsra1.dnslog.cn')
+socket.gethostbyname('6j1jtt.dnslog.cn')
